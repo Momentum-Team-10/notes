@@ -6,4 +6,4 @@
 
 - [Command Line](command-line.md)
 - [Git](git-github.md)
--[HTML](html.md)
+- [HTML](html.md)

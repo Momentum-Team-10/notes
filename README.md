@@ -9,3 +9,4 @@
 - [HTML](html.md)
 - [CSS Basics](css-basics.md)
 - [CSS Layout](css-layout.md)
+- [Intro to JS](intro-js.md)

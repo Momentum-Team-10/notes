@@ -13,3 +13,4 @@
 - [JS Arrays](js-arrays.md)
 - [JS and the DOM](js-dom.md)
 - [JS Debugging](js-debugging.md)
+- [JS Forms](js-forms.md)

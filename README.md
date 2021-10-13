@@ -15,3 +15,4 @@
 - [JS Debugging](js-debugging.md)
 - [JS Forms](js-forms.md)
 - [JS Objects](js-objects.md)
+-[JS and AJAX](js-ajax.md)

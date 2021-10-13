@@ -16,3 +16,4 @@
 - [JS Forms](js-forms.md)
 - [JS Objects](js-objects.md)
 -[JS and AJAX](js-ajax.md)
+-[HTTP Request/Response Cycle](http-req-res.md)

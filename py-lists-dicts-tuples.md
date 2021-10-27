@@ -8,11 +8,9 @@ Don't type the `>>>`. That is showing you the start of the prompt in the Python 
 
 # Python Lists
 
-### Lists are...
+### Collections enclosed by `[]`
 
-- Collections enclosed by []
-- trailing comma can be used
-- indexed like JS arrays
+They are indexed like JS arrays and trailing commas can be used.
 
 ```py
 >>> nerf_guns = ['Rampage', 'Shockwave RD-15', 'Mediator',]
@@ -21,6 +19,10 @@ Don't type the `>>>`. That is showing you the start of the prompt in the Python 
 ```
 
 ### Examples of frequently used list methods
+
+- `append()`
+- `pop()`
+- `remove()`
 
 ```py
 >>> nerf_guns.append('Jolt')
@@ -39,7 +41,7 @@ Don't type the `>>>`. That is showing you the start of the prompt in the Python 
 
 # Python Dictionaries
 
-### key: value pairs enclosed by {}
+### _key: value_ pairs enclosed by `{}`
 
 Similar to JS objects.
 
@@ -57,7 +59,9 @@ Trailing commas also 👍 in dictionaries, as in lists.
 
 ### Obtain values by their keys, NOT their position
 
-You have to use square brackets enclosing a string to retrieve values by their key. Dot notation will not work like it does in JS.
+You have to use square brackets enclosing a string to retrieve values by their key.
+
+⚠️ **Dot notation will not work like it does in JS.**
 
 ```py
 >>> fruit_amounts['apples']
@@ -75,7 +79,7 @@ You have to use square brackets enclosing a string to retrieve values by their k
 {'apples': 3, 'bananas': 10, 'papayas': 2, 'pears': 5}
 ```
 
-Notice you can change values for existing keys and you can also add new keys with values **with the same syntax**.
+Notice you can change values for existing keys and add new keys with their values **with the same syntax**.
 
 ---
 

@@ -14,7 +14,7 @@ They are indexed like JS arrays and trailing commas can be used.
 
 ```py
 >>> nerf_guns = ['Rampage', 'Shockwave RD-15', 'Mediator',]
->>> my_list[0]
+>>> nerf_guns[0]
 'Rampage'
 ```
 

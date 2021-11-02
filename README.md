@@ -21,3 +21,4 @@
 ### Phase 2: Back End
 
 - [Intro to Python](intro-python.md)
+- [Tour of a Django App](django-tour.md)

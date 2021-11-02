@@ -22,3 +22,4 @@
 
 - [Intro to Python](intro-python.md)
 - [Tour of a Django App](django-tour.md)
+- [Django structure: diagram](django-diagram.md)

@@ -24,3 +24,4 @@
 - [Tour of a Django App](django-tour.md)
 - [Django structure: diagram](django-diagram.md)
 - [Django shell example: how to create related objects](django-shell-example.md)
+- [What are foreign keys?](pks_and_fks.md)

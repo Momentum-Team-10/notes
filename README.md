@@ -25,4 +25,4 @@
 - [Django structure: diagram](django-diagram.md)
 - [Django shell example: how to create related objects](django-shell-example.md)
 - [What are foreign keys?](pks_and_fks.md)
-- [O2M and M2M relationships: diagram](images/o2m-and-m2m.png)
+- [O2M and M2M relationships: diagram](O2M-and-M2M.md)

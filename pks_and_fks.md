@@ -1,6 +1,6 @@
 # What is a Foreign Key?
 
-Let's back up and talk about database generally.
+Let's back up and talk about the database generally. Specifically, a **relational database**, which lets us store data across multiple tables and make connections between the tables. A SQL database, like SQLite or PostgreSQL, is a relational database.
 
 ## A database has many tables (usually)
 
